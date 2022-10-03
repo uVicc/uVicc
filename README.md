@@ -1,4 +1,4 @@
-## 👨🏻‍💻 Olá, eu sou o Victor Azevedo.
+## 👨🏻‍💻 Hey, I'm Victor Azevedo.
 <ul>
   <li>Currently Studying <b>Analsys and Systems Development</b>💻 at <b>Estácio de Sá</b></li>
 </ul>
