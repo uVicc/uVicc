@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 Hey, I'm Victor Azevedo.
 <ul>
-  <li>Currently Studying <b>Analsys and Systems Development</b>💻 at <b>Estácio de Sá</b></li>
+  <li>Currently Studying <b>Analysys and Systems Development</b>💻 at <b>Estácio de Sá</b></li>
 </ul>
 
 ## 💡 Skills:
