@@ -6,7 +6,11 @@
 ## 💡 Skills:
 <ul>
   <li>⌨️ <b>JavaScript, HTML, CSS</b></li>
+</ul>
+## 📖 Learning:
+<ul>
   <li>📦 <b>Express.js</b></li>
+  <li>🌫 <b>TailwindCSS</b></li>
 </ul>
 
 <div style="display: inline_block">
