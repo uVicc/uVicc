@@ -3,15 +3,15 @@
   <li>Currently Studying <b>Analysys and Systems Development</b>💻 at <b>Estácio de Sá</b></li>
 </ul>
 
-## 💡 Skills:
+## Skills:
 <ul>
-  <li>⌨️ <b>JavaScript, HTML, CSS</b></li>
+  <li><b>JavaScript, HTML, CSS, Express.js</b></li>
 </ul>
 
 ## 📖 Learning:
 <ul>
-  <li>📦 <b>Express.js</b></li>
-  <li>🌫 <b>TailwindCSS</b></li>
+  <li><b>Typescript</b></li>
+  <li><b>React</b></li>
 </ul>
 
 <div style="display: inline_block">
