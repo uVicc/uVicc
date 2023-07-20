@@ -1,4 +1,4 @@
-## 👨🏻‍💻 Hey, I'm Victor Azevedo.
+## Hey, I'm Victor Azevedo.
 <ul>
   <li>Currently Studying <b>Analysys and Systems Development</b>💻 at <b>Estácio de Sá</b></li>
 </ul>
@@ -8,7 +8,7 @@
   <li><b>JavaScript, HTML, CSS, Express.js</b></li>
 </ul>
 
-## 📖 Learning:
+## Learning:
 <ul>
   <li><b>Typescript</b></li>
   <li><b>React</b></li>
