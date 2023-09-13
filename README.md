@@ -5,13 +5,18 @@
 
 ## Skills:
 <ul>
-  <li><b>JavaScript, HTML, CSS, Express.js</b></li>
+  <li><b>JavaScript</b></li>
+  <li><b>HTML</b></li>
+  <li><b>CSS</b></li>
+  <li><b>Express.js</b></li>
+  <li><b>Tailwind CSS</b></li>
 </ul>
 
 ## Learning:
 <ul>
   <li><b>Typescript</b></li>
   <li><b>React</b></li>
+  <li><b>Next.js</b></li>
 </ul>
 
 <div style="display: inline_block">
