@@ -1,6 +1,6 @@
 ## Hey, I'm Victor Azevedo.
 <ul>
-  <li>Currently Studying <b>Analysys and Systems Development</b>💻 at <b>Estácio de Sá</b></li>
+  <li>Software Developer - Full-Stack</li>
 </ul>
 
 ## Skills:
@@ -10,6 +10,10 @@
   <li><b>CSS</b></li>
   <li><b>Express.js</b></li>
   <li><b>Tailwind CSS</b></li>
+  <li><b>TypeScript</b></li>
+  <li><b>React</b></li>
+  <li><b>Vue</b></li>
+  <li><b>AWS</b></li>
 </ul>
 
 ## Learning:
