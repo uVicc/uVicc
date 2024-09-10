@@ -18,9 +18,7 @@
 
 ## Learning:
 <ul>
-  <li><b>Typescript</b></li>
-  <li><b>React</b></li>
-  <li><b>Next.js</b></li>
+  <li><b>Golang</b></li>
 </ul>
 
 <div style="display: inline_block">
